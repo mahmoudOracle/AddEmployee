@@ -9,10 +9,12 @@
   <pageMap>
     <page path="/addEmp.jsff" usageId="view_addEmpPageDef"/>
     <page path="/testTF.jsf" usageId="view_testTFPageDef"/>
+    <page path="/JsfPage.jsf" usageId="view_JsfPagePageDef"/>
   </pageMap>
   <pageDefinitionUsages>
     <page id="view_addEmpPageDef" path="view.pageDefs.addEmpPageDef"/>
     <page id="view_testTFPageDef" path="view.pageDefs.testTFPageDef"/>
+    <page id="view_JsfPagePageDef" path="view.pageDefs.JsfPagePageDef"/>
   </pageDefinitionUsages>
   <dataControlUsages>
     <BC4JDataControl id="AppModuleAMDataControl" Package="model.bc.am"

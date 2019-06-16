@@ -5,7 +5,7 @@
         <af:gridRow height="50px" id="gr1">
             <af:gridCell width="100%" halign="stretch" valign="stretch" id="gc2">
                 <!-- Header -->
-                <CTB:CTB id="ctb1">
+                <CTB:CTB id="ctb1" IteratorName="Employees1Iterator">
                     <f:facet name="Add Area"/>
                 </CTB:CTB>
             </af:gridCell>
